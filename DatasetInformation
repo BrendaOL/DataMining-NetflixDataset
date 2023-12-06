@@ -141,16 +141,3 @@ dates) for each pair are contained in the training dataset.
 If you wish, you may calculate the RMSE of your predictions against those
 ratings and compare your RMSE against the Cinematch RMSE on the same data.  See
 http://www.netflixprize.com/faq#probe for that value.
-
-
-Good luck!
-
-
-MD5 SIGNATURES AND FILE SIZES
-================================================================================
-
-d2b86d3d9ba8b491d62a85c9cf6aea39        577547 movie_titles.txt
-ed843ae92adbc70db64edbf825024514      10782692 probe.txt
-88be8340ad7b3c31dfd7b6f87e7b9022      52452386 qualifying.txt
-0e13d39f97b93e2534104afc3408c68c           567 rmse.pl
-0098ee8997ffda361a59bc0dd1bdad8b    2081556480 training_set.tar
